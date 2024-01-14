@@ -20,43 +20,43 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Clay Reimus",
+  initials: "CR",
+  location: "Brookly, NY",
+  locationLink: "https://www.google.com/maps/place/Brooklyn,+NY/data=!4m2!3m1!1s0x89c24416947c2109:0x82765c7404007886?sa=X&ved=2ahUKEwjNnaL5iN6DAxXAg4kEHQm1CmoQ8gF6BAgXEAA",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Growth expert with a broad and deep skillset",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+    "I'm a growth leader with extensive experience managing high-performing teams, from global agencies to private tech unicorns and everything in between. My work is cross-functional and often spans product, analytics, and marketing.",
+  avatarUrl: "https://avatars.githubusercontent.com/u/7075884?v=4",
+  personalWebsiteUrl: "https://clayreimus.com",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "hello@clayreimus.com",
+    tel: "plsdontcallme",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/mgsrevolver",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/clayreimus/",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://twitter.com/DelilloOnNBA",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
+      school: "Susquehanna University",
+      degree: "Communications",
       start: "2007",
-      end: "2010",
+      end: "2011",
     },
   ],
   work: [
